@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nam/vehicle_counting/src/Blob.cpp
+Blob.h
+/home/nam/vehicle_counting/src/Blob.h
+
+/home/nam/vehicle_counting/src/Blob.h
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+
+/home/nam/vehicle_counting/src/Main.cpp
+Blob.h
+/home/nam/vehicle_counting/src/Blob.h
+fstream
+-
+cstdlib
+-
+string
+-
+stdio.h
+-
+iomanip
+-
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+iostream
+-
+

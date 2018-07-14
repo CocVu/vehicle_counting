@@ -96,7 +96,3 @@ void Blob::predictNextPosition(void) {
         // should never get here!
     }
 }
-
-
-
-

@@ -1,0 +1,11 @@
+* left increase left
+
+** bool checkIfBlobsCrossedTheLineLeft(std::vector<Blob> &blobs, int &intHorizontalLinePosition, int &carCountLeft) {
+
+imgFrame1
+blob.centerPositions[prevFrameIndex].y <= intHorizontalLinePosition &&
+blob.centerPositions[currFrameIndex].y > intHorizontalLinePosition &&
+blob.centerPositions[currFrameIndex].x < 350 &&
+blob.centerPositions[currFrameIndex].x > 0
+
+* 
